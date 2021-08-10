@@ -4628,11 +4628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ranjith Kumar\\Desktop\\VS\\SampleTry\\SampleTry.csproj",
+      "projectUniqueName": "C:\\Users\\Ranjith Kumar\\Desktop\\VS\\GitPrac\\SampleTry\\SampleTry.csproj",
       "projectName": "SampleTry",
-      "projectPath": "C:\\Users\\Ranjith Kumar\\Desktop\\VS\\SampleTry\\SampleTry.csproj",
+      "projectPath": "C:\\Users\\Ranjith Kumar\\Desktop\\VS\\GitPrac\\SampleTry\\SampleTry.csproj",
       "packagesPath": "C:\\Users\\Ranjith Kumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ranjith Kumar\\Desktop\\VS\\SampleTry\\obj\\",
+      "outputPath": "C:\\Users\\Ranjith Kumar\\Desktop\\VS\\GitPrac\\SampleTry\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ranjith Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
